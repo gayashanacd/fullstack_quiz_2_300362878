@@ -56,5 +56,3 @@ app.post('/', async (req, res) => {
 app.listen(port, () => {
   console.log(`Server is running on port: ${port}`);
 });
-
-// mongodb+srv://july17:july17@cluster0.0p7zae5.mongodb.net/Summer24
